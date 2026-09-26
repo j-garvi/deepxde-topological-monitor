@@ -1,0 +1,202 @@
+{
+  "backend": "pytorch",
+  "deepxde_version": "1.15.0",
+  "iterations": 3000,
+  "grid_points": 129,
+  "period": 100,
+  "training_seconds": 20.461351208010456,
+  "monitor_evaluation_seconds": 0.05283858405891806,
+  "monitor_fraction_of_training": 0.002582360447350719,
+  "initial_loss": 0.5682883858680725,
+  "final_loss": 0.008056258782744408,
+  "initial_test_loss": 0.5673040747642517,
+  "final_test_loss": 2.8459670543670654,
+  "history": [
+    {
+      "step": 0,
+      "num_features": 0,
+      "total_persistence": 0.0,
+      "max_persistence": 0.0
+    },
+    {
+      "step": 100,
+      "num_features": 2,
+      "total_persistence": 1.0385275483131409,
+      "max_persistence": 0.5881609991192818
+    },
+    {
+      "step": 200,
+      "num_features": 2,
+      "total_persistence": 1.8367523960769176,
+      "max_persistence": 0.9211218394339085
+    },
+    {
+      "step": 300,
+      "num_features": 2,
+      "total_persistence": 2.1132606118917465,
+      "max_persistence": 1.0862366035580635
+    },
+    {
+      "step": 400,
+      "num_features": 2,
+      "total_persistence": 2.0863190442323685,
+      "max_persistence": 1.064527004957199
+    },
+    {
+      "step": 500,
+      "num_features": 2,
+      "total_persistence": 2.0616044625639915,
+      "max_persistence": 1.045001469552517
+    },
+    {
+      "step": 600,
+      "num_features": 2,
+      "total_persistence": 2.1577252000570297,
+      "max_persistence": 1.1205434426665306
+    },
+    {
+      "step": 700,
+      "num_features": 2,
+      "total_persistence": 2.3662452585995197,
+      "max_persistence": 1.2204868271946907
+    },
+    {
+      "step": 800,
+      "num_features": 2,
+      "total_persistence": 2.367300532758236,
+      "max_persistence": 1.1954467222094536
+    },
+    {
+      "step": 900,
+      "num_features": 3,
+      "total_persistence": 2.619798719882965,
+      "max_persistence": 1.2316619604825974
+    },
+    {
+      "step": 1000,
+      "num_features": 3,
+      "total_persistence": 3.0394995734095573,
+      "max_persistence": 1.2478288561105728
+    },
+    {
+      "step": 1100,
+      "num_features": 4,
+      "total_persistence": 4.242389589548111,
+      "max_persistence": 1.8464093804359436
+    },
+    {
+      "step": 1200,
+      "num_features": 3,
+      "total_persistence": 4.595819268375635,
+      "max_persistence": 2.257535070180893
+    },
+    {
+      "step": 1300,
+      "num_features": 4,
+      "total_persistence": 4.135012060403824,
+      "max_persistence": 1.8600909113883972
+    },
+    {
+      "step": 1400,
+      "num_features": 3,
+      "total_persistence": 3.03708428516984,
+      "max_persistence": 1.1957275420427322
+    },
+    {
+      "step": 1500,
+      "num_features": 3,
+      "total_persistence": 2.6635498851537704,
+      "max_persistence": 1.1648366749286652
+    },
+    {
+      "step": 1600,
+      "num_features": 3,
+      "total_persistence": 2.4497817754745483,
+      "max_persistence": 1.2058601081371307
+    },
+    {
+      "step": 1700,
+      "num_features": 4,
+      "total_persistence": 2.4671421200037003,
+      "max_persistence": 1.1529058367013931
+    },
+    {
+      "step": 1800,
+      "num_features": 5,
+      "total_persistence": 2.7956102043390274,
+      "max_persistence": 1.1552135944366455
+    },
+    {
+      "step": 1900,
+      "num_features": 6,
+      "total_persistence": 2.79363189637661,
+      "max_persistence": 1.1463699042797089
+    },
+    {
+      "step": 2000,
+      "num_features": 6,
+      "total_persistence": 2.8062977120280266,
+      "max_persistence": 1.195153295993805
+    },
+    {
+      "step": 2100,
+      "num_features": 6,
+      "total_persistence": 2.7397018373012543,
+      "max_persistence": 1.2385571002960205
+    },
+    {
+      "step": 2200,
+      "num_features": 5,
+      "total_persistence": 2.6875478327274323,
+      "max_persistence": 1.213140144944191
+    },
+    {
+      "step": 2300,
+      "num_features": 5,
+      "total_persistence": 2.728076919913292,
+      "max_persistence": 1.20230270922184
+    },
+    {
+      "step": 2400,
+      "num_features": 5,
+      "total_persistence": 2.7896738201379776,
+      "max_persistence": 1.2229830026626587
+    },
+    {
+      "step": 2500,
+      "num_features": 5,
+      "total_persistence": 2.7947958409786224,
+      "max_persistence": 1.1783462464809418
+    },
+    {
+      "step": 2600,
+      "num_features": 5,
+      "total_persistence": 2.78283229470253,
+      "max_persistence": 1.1714133620262146
+    },
+    {
+      "step": 2700,
+      "num_features": 6,
+      "total_persistence": 2.8091575652360916,
+      "max_persistence": 1.1313332319259644
+    },
+    {
+      "step": 2800,
+      "num_features": 5,
+      "total_persistence": 2.801842585206032,
+      "max_persistence": 1.0941597521305084
+    },
+    {
+      "step": 2900,
+      "num_features": 5,
+      "total_persistence": 2.5648020654916763,
+      "max_persistence": 1.1014246940612793
+    },
+    {
+      "step": 3000,
+      "num_features": 5,
+      "total_persistence": 3.001990467309952,
+      "max_persistence": 1.1638031899929047
+    }
+  ]
+}

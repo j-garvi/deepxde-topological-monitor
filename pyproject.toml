@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=65"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "deepxde-topological-monitor"
+version = "0.1.0"
+description = "Optional finite-H0 persistence monitoring for DeepXDE"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "LGPL-2.1"}
+dependencies = ["deepxde>=1.14,<2", "numpy"]
+
+[project.optional-dependencies]
+test = ["pytest", "gudhi"]
+
+[tool.setuptools]
+py-modules = ["deepxde_topology"]
