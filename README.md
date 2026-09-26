@@ -5,6 +5,8 @@ of a predicted scalar field during training. It works with an ordinary DeepXDE
 installation and adds no TDA runtime dependency. This is an independent proposal,
 not an official DeepXDE feature.
 
+Upstream discussion: [DeepXDE issue #2107](https://github.com/lululxvi/deepxde/issues/2107).
+
 ## Install and import
 
 With DeepXDE and a supported backend already installed:
